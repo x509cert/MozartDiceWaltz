@@ -1,6 +1,6 @@
 # Mozart Dice Waltz
 
-A .NET console implementation of Mozart's *Musikalisches Wuerfelspiel* ("Musical Dice Game"), K. 516f / K. Anh. 294d. The program rolls two dice for each of 16 positions, looks up the matching measure in the historical dice table, then plays or exports a unique waltz as MIDI.
+A .NET/C# console implementation of Mozart's *Musikalisches Wuerfelspiel* ("Musical Dice Game"), K. 516f / K. Anh. 294d. The program rolls two dice for each of 16 positions, looks up the matching measure in the historical dice table, then plays or exports a unique waltz as MIDI.
 
 ## Background
 
@@ -12,7 +12,7 @@ That makes the work a fascinating early example of procedural music: a rule-base
 
 ## Personal note
 
-I wrote a version of this when I was 18 years old in BASIC and Z80 assembly on a Sega video console. It took me two weeks to write. This version took about 20 minutes with AI.
+I wrote a version of this when I was 20 years old in BASIC and Z80 assembly on a Sega video console. It took me two weeks to write. This version took about 20 minutes with AI.
 
 ## Features
 
