@@ -1,0 +1,5 @@
+X:\repos\MozartDiceWaltz\obj\Debug\net10.0\MozartDiceWaltz.GeneratedMSBuildEditorConfig.editorconfig
+X:\repos\MozartDiceWaltz\obj\Debug\net10.0\MozartDiceWaltz.AssemblyInfoInputs.cache
+X:\repos\MozartDiceWaltz\obj\Debug\net10.0\MozartDiceWaltz.AssemblyInfo.cs
+X:\repos\MozartDiceWaltz\obj\Debug\net10.0\MozartDiceWaltz.csproj.CoreCompileInputs.cache
+X:\repos\MozartDiceWaltz\obj\Debug\net10.0\MozartDiceWaltz.csproj.AssemblyReference.cache
