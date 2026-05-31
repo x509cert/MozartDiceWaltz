@@ -26,7 +26,7 @@ I wrote a version of this when I was 20 years old in BASIC and Z80 assembly on a
 ## Requirements
 
 - Windows, for live MIDI playback through `NAudio.Midi.MidiOut`.
-- .NET 8 SDK.
+- .NET 8 SDK (or later).
 - NAudio 2.2.1, restored automatically by `dotnet restore`.
 
 For better piano sound, install a software MIDI synth such as VirtualMIDISynth and load a piano soundfont. The application prefers devices named VirtualMIDISynth, Salamander, or FluidSynth when present, and falls back to the Microsoft GS Wavetable Synth.
